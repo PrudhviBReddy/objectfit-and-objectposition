@@ -1,0 +1,224 @@
+img{
+    display: inline-block;
+} 
+#mainBody{
+    background-color: lightskyblue;
+}
+#rohit{
+    width: 120px;
+    height: 600px;
+}
+#kohli{
+    width: 120px;
+    height: 600px;
+}
+#pant{
+    width: 120px;
+    height: 600px;
+}
+#sky{
+    width: 140px;
+    height: 600px;
+    object-fit: content;
+    object-position: 100px-0px;
+}
+#hardik{
+    width: 140px;
+    height: 600px;
+}
+#dube{
+    width: 140px;
+    height: 600px;
+}
+#jadeja{
+    width: 110px;
+    height: 600px;
+}
+#axar{
+    width: 140px;
+    height: 600px;
+}
+#arshdeep{
+    width: 140px;
+    height: 600px;
+}
+#bumrah{
+    width: 110px;
+    height: 600px;
+}
+#kuldeep{
+    width: 140px;
+    height: 600px;
+}
+#siraj{
+    width: 120px;
+    height: 600px;
+}
+#pat{
+    width: 140px;
+    height: 500px;
+    background-color: orange;
+    object-fit: cover;
+}
+#shreyas{
+    width: 140px;
+    height: 500px;
+    background-color: blueviolet;
+    object-fit: cover;
+}
+#samson{
+    width: 140px;
+    height: 500px;
+    background-color: pink;
+    object-fit: cover;
+}
+#kl{
+    width: 140px;
+    height: 500px;
+    background-color: cadetblue;
+    object-fit: cover;
+}
+#virat{
+    width: 140px;
+    height: 500px;
+    background-color: lightcoral;
+    object-fit: cover;
+    object-position: 0px-200px;
+}
+#dhoni{
+    width: 140px;
+    height: 500px;
+    background-color: yellowgreen;
+    object-fit: cover;
+}
+#sharma{
+    width: 140px;
+    height: 500px;
+    background-color: lightskyblue;
+    object-fit: cover;
+}
+#rishabh{
+    width: 140px;
+    height: 500px;
+    background-color: lightpink;
+    object-fit: cover;
+}
+#dhawan{
+    width: 140px;
+    height: 500px;
+    background-color: lightcoral;
+    object-fit: cover;
+}
+#shubman{
+    width: 140px;
+    height: 500px;
+    background-color: darkslateblue;
+    object-fit: cover;
+}
+#mainHeading{
+    background-color: lightseagreen;
+}
+#logo{
+    width: 300px;
+    text-align: center;
+}
+
+#ant{
+    width: 140px;
+    height: 500px;
+}
+#panther{
+    width: 140px;
+    height: 500px;
+}
+#widow{
+    width: 140px;
+    height: 500px;
+}
+#captain{
+    width: 140px;
+    height: 500px;
+}
+#doctor{
+    width: 140px;
+    height: 500px;
+}
+#hulk{
+    width: 140px;
+    height: 500px;
+}
+#iron{
+    width: 140px;
+    height: 500px;
+}
+#thor{
+    width: 140px;
+    height: 500px;
+}
+#loki{
+    width: 140px;
+    height: 500px;
+}
+#thones{
+    width: 140px;
+    height: 500px;
+}
+#mainbody{
+    background-color: black;
+}
+#alogo{
+    width: 800px;
+    height: 400px;
+}
+#avengers{
+    width: 500px;
+    height: 300px;
+}
+#g{
+    width: 500px;
+    height: 300px;
+}
+#g1{
+    width: 500px;
+    height: 300px;
+}
+#g2{
+    width: 500px;
+    height: 300px;
+}
+#g3{
+    width: 500px;
+    height: 300px;
+}
+#mainPolitical{
+    background-color: cadetblue;
+}
+.p{
+    width: 300px;
+    height: 500px;
+}
+#KV{
+    width: 1400px;
+    height: 200px;
+    background-color: chocolate;
+    object-fit: cover;
+    object-position: 0px - 50px;
+}
+#KV1{
+    width: 1400px;
+    height: 200px;
+    background-color: chocolate;
+    object-fit: scale-down;
+}
+#KV2{
+    width: 1400px;
+    height: 200px;
+    background-color: chocolate;
+    object-fit: cover;
+}
+#KV3{
+    width: 1400px;
+    height: 200px;
+    background-color: chocolate;
+    object-fit: contain;
+}
